@@ -1,0 +1,9 @@
+{
+    "name": "abdelhay-ismaili/calc",
+    "autoload": {
+        "psr-4": {
+            "rekenmachine\\": "src/"
+        }
+    },
+    "require": {}
+}
